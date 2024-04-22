@@ -1,0 +1,7 @@
+E:\MMUD\RABIN\RABIN\bin\Debug\RABIN.exe.config
+E:\MMUD\RABIN\RABIN\bin\Debug\RABIN.exe
+E:\MMUD\RABIN\RABIN\bin\Debug\RABIN.pdb
+E:\MMUD\RABIN\RABIN\obj\Debug\RABIN.csproj.AssemblyReference.cache
+E:\MMUD\RABIN\RABIN\obj\Debug\RABIN.csproj.CoreCompileInputs.cache
+E:\MMUD\RABIN\RABIN\obj\Debug\RABIN.exe
+E:\MMUD\RABIN\RABIN\obj\Debug\RABIN.pdb
